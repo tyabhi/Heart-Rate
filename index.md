@@ -18,4 +18,4 @@ Syntax highlighted code block
 
 ### Support or Contact
 
-Having trouble with Pages? Check out the [documentation](https://github.com/tyabhi/Heart-Rate/blob/main/Presentation.pdf) 
+Having trouble with anything? Check out the [documentation](https://github.com/tyabhi/Heart-Rate/blob/main/Presentation.pdf) 
